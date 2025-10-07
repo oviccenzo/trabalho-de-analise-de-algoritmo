@@ -1,0 +1,48 @@
+Trabalho Algoritmos de Ordenação
+
+Aberto: sexta-feira, 5 set. 2025, 00:00
+Vencimento: sexta-feira, 19 set. 2025, 23:59
+
+Trabalho de Análise Empírica de Algoritmos de Ordenação
+1. Objetivo
+
+Realizar a análise empírica dos algoritmos de ordenação apresentados no Slide da Aula 06, implementando-os e comparando seus desempenhos por meio da execução em entradas geradas aleatoriamente.
+2. Descrição da Atividade
+
+O trabalho consiste em:
+1. Implementar cada um dos algoritmos de ordenação estudados.
+2. Executar os algoritmos com entradas de tamanhos crescentes, geradas de forma aleatória.
+3. Registrar os tempos de processamento de cada execução.
+4. Comparar os resultados obtidos entre os diferentes algoritmos.
+
+Tamanhos de entrada obrigatórios:
+
+·         10, 100, 1.000, 5.000, 10.000, 50.000, 100.000
+
+Ampliar os testes até o máximo de elementos que sua máquina suportar até a data da entrega.
+3. Entregáveis (Relatório)
+
+O relatório deverá conter:
+- Configurações da máquina utilizada (processador, memória, sistema operacional, etc.);
+- Implementação de cada algoritmo testado;
+- O número máximo de entradas alcançado em cada algoritmo;
+- A complexidade teórica de cada algoritmo (melhor caso, caso médio e pior caso);
+- Gráficos individuais: tamanho da entrada × tempo de execução de cada algoritmo;
+- Gráfico comparativo: todos os algoritmos no mesmo gráfico;
+- Referências bibliográficas utilizadas.
+4. Critérios de Avaliação (10,0 pontos)
+
+(2,0) Correção das implementações;
+(2,0) Metodologia dos testes (organização, descrição e clareza dos experimentos);
+(2,0) Apresentação dos resultados (tabelas e gráficos adequados);
+(2,0) Discussão crítica dos resultados obtidos, comparando teoria e prática;
+(1,0) Descrição correta das complexidades;
+(1,0) Organização, redação e referências.
+5. Formato de Entrega
+
+• Relatório em PDF;
+•link do codigo fonte disponibilizado no github;
+• Nome do arquivo: Analise-Ordenacao_<Turma>_<SeuNome>.pdf.
+6. Data de Entrega
+
+19/09/2025 – Moodle – até as 23h59
