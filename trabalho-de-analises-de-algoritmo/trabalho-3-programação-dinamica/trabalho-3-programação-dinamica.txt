@@ -1,0 +1,24 @@
+Relatório - Trabalho II - Programação Dinâmica
+
+Aberto: terça-feira, 11 nov. 2025, 00:00
+Vencimento: sexta-feira, 12 dez. 2025, 23:59
+
+Tema 1: Problema do Caxeiro Viajante
+Tema 2: Bin Packing - Heurística Next Fit
+Tema 3: Bin Packing - Heurística First Fit
+Tema 4: Bin Packing - Algoritmo de Zhang
+
+g1: Henrique e Augusto - Tema 4
+g2: Rodrigo e Pedro Henrique - Tema 3
+g3: Guilherme, Marco Tulio e Leonardo -  Tema 2
+g4: Sergio, Kleberson e Viccenzo - Tema 1
+
+--- Conteúdo do Artigo ---
+explicar o problema
+apresentar o algoritmo tradicional (força bruta)
+apresentar a Técnica Aproximada (Heurística)
+apresentar algoritmo o algoritmo aproximado
+apresentar a razão de aproximação    
+apresentar os resultados e gráficos
+conclusão
+ 

@@ -1,0 +1,48 @@
+Seminário - Divide and Conquer
+Aberto: terça-feira, 7 out. 2025, 00:00
+Vencimento: sexta-feira, 31 out. 2025, 23:59
+
+Tema 1: Calculo da n-enesima potencia a (onde a é um constante)
+
+Tema 2: Multiplicação de Matrizes
+
+Tema 3: Multiplicação de inteiros
+
+Tema 4: Par mais próximo
+
+Para cada tema deve ser entregue um relatório em formato de artigo utilizando o template de artigos da sbc.
+
+O Seminário (Apresentação e Artigo) devem apresentar tais topicos:
+
+    Apresentação do problema
+    Apresentar o algoritmo tradicional que resolve o problema (Apresentar o código e explica-lo)
+    Apresentar Aplicação do Divide and Conquer para resolução do problema (Explicar cada etapa dentro do problema (Dividir, Conquistar e Combinar)
+    Apresentar o algoritmo utilizando divide and conquer
+    Apresentar o equação de recorrência do problema
+    Provar o custo (utilizando a equação de recorrência)
+    Apresentar Gráfico de Custo individual (algoritmo tradicional e algoritmo divide and Conquer)
+    Apresentar Gráfica de custo entre os dois algoritmos
+    Conclusões
+
+ Não se esqueça de colocar as configurações das maquinas que foram testados os algoritmos,
+
+Caso seu tema possuiu algoritmos com variações da técnica implementar as variações.
+
+
+link para template sbc no latex: SBC Conferences Template - Overleaf, Online LaTeX Editor
+
+o docx está em anexo no documento.
+
+
+------------- Grupos -------------
+
+g1: Henrique e Augusto - Tema 1
+
+g2: Rodrigo e Pedro Henrique - Tema 2
+
+g3: Guilherme, Marco Tulio, Leonardo - Tema 3
+
+g4: Sergio, Kleberson e Viccenzo - Tema 4
+	
+modelosparapublicaodeartigos.zip modelosparapublicaodeartigos.zip
+7 outubro 2025, 09:55 AM
